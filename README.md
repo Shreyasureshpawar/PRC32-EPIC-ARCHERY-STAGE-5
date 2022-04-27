@@ -1,1 +1,1 @@
-# PRC32-EPIC-ARCHERY-STAGE-5
+# Project Template 26
